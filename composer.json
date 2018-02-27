@@ -19,7 +19,7 @@
 		"archive": "http://www.github.com/ivebeenlinuxed/linuxdash-helloworld/archive/",
 		"latest": "https://raw.githubusercontent.com/ivebeenlinuxed/linuxdash-helloworld/master/composer.json",
 		"changelog": {
-			"0.1.2": "Test the Update Sequence",
+			"0.1.3": "Test the Update Sequence",
 			"0.1.0": "Initial Release"
 		}
     },
