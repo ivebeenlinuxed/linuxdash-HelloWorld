@@ -1,6 +1,7 @@
 {
     "name": "ivebeenlinuxed/linuxdash-helloworld",
     "description": "Hello World Test Plugin",
+    "type": "linuxdash-module",
     "authors": [
         {
             "name": "Will Tinsdeall",
