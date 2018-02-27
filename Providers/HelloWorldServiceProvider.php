@@ -28,7 +28,7 @@ class HelloWorldServiceProvider extends ServiceProvider
         $this->registerFactories();
         $this->loadMigrationsFrom(__DIR__ . '/../Database/Migrations');
 		
-		Menu::get('MainNav')->find("administration")->add("Hello World Test", "/helloworld/");
+//		Menu::get('MainNav')->find("administration")->add("Hello World Test", "/helloworld/");
     }
 
     /**
