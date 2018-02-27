@@ -8,6 +8,9 @@
             "email": "will@tinsdeall.co.uk"
         }
     ],
+    "require": {
+        "ivebeenlinuxed/linuxdash-module-installer": "*"
+    }
     "extra": {
         "laravel": {
             "providers": [
