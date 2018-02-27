@@ -10,7 +10,7 @@
     ],
     "require": {
         "ivebeenlinuxed/linuxdash-module-installer": "*"
-    }
+    },
     "extra": {
         "laravel": {
             "providers": [
